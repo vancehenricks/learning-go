@@ -4,3 +4,7 @@
 !*.mod
 !*.md
 !.gitignore
+!.vscode
+!*.sql
+!Makefile
+!compose.yaml
