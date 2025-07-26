@@ -1,3 +1,1 @@
-# todolist-golang
-
-Learning go
+# Learning Go
